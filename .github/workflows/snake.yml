@@ -26,9 +26,17 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          svg_out_size: 1200x90
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=ffffff&color_dots=%23161b22,%23E50914,%23ff1a1a,%23e60000,%23b30000
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ffffff&color_dots=%23161b22,%23E50914,%23ff1a1a,%23e60000,%23b30000
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      
+      - name: Customize snake colors
+        run: |
+          # Add white snake color to dark mode
+          sed -i 's/#10b981/#ffffff/g' dist/github-contribution-grid-snake-dark.svg
+          # Keep red dots
+          sed -i 's/#0969da/#E50914/g' dist/github-contribution-grid-snake-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
