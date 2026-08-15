@@ -50,7 +50,7 @@ looking_for:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uieiie/uieiie/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uieiie/uieiie/output/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#161b22,#ff4d4d,#ff1a1a,#e60000,#b30000">
     <img src="https://raw.githubusercontent.com/uieiie/uieiie/output/github-contribution-grid-snake.svg" alt="Snake Animation">
   </picture>
 </p>
