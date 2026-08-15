@@ -18,25 +18,17 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - name: Generate snake SVG
+      - name: Generate snake SVG with white snake and red dots
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_size: 1200x90
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      - name: Customize snake colors
-        run: |
-          # Add white snake color to dark mode
-          sed -i 's/#10b981/#ffffff/g' dist/github-contribution-grid-snake-dark.svg
-          # Keep red dots
-          sed -i 's/#0969da/#E50914/g' dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.svg?color_snake=ffffff&color_dots=161b22,E50914,ff1a1a,e60000,b30000
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ffffff&color_dots=161b22,E50914,ff1a1a,e60000,b30000
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
