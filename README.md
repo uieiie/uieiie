@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/github/followers/uieiie?style=for-the-badge&color=E50914&labelColor=000000" alt="Followers" />
 </p>
 
+---
+
 ## 🧬 About Me
 
 ```yaml
@@ -36,28 +38,34 @@ looking_for:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uieiie&show_icons=true&count_private=true&bg_color=000000&title_color=ffffff&icon_color=E50914&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uieiie&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uieiie&show_icons=true&count_private=true&bg_color=000000&title_color=E50914&icon_color=E50914&text_color=ffffff&hide_border=true&theme=dark" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uieiie&layout=compact&bg_color=000000&title_color=E50914&text_color=ffffff&hide_border=true&theme=dark" alt="Top Languages" />
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uieiie&bg_color=000000&color=ffffff&line=E50914&point=E50914&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uieiie&bg_color=000000&color=E50914&line=E50914&point=E50914&hide_border=true&theme=github-dark" alt="Contribution Graph" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uieiie/uieiie/output/github-contribution-grid-snake-dark.svg?color_snake=white&color_dots=#161b22,#ff4d4d,#ff1a1a,#e60000,#b30000">
-    <img src="https://raw.githubusercontent.com/uieiie/uieiie/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uieiie/uieiie/output/github-contribution-grid-snake-dark.svg?color_snake=ffffff&color_dots=%23161b22,%23E50914,%23ff1a1a,%23e60000,%23b30000">
+    <img src="https://raw.githubusercontent.com/uieiie/uieiie/output/github-contribution-grid-snake.svg?color_snake=ffffff&color_dots=%23161b22,%23E50914,%23ff1a1a,%23e60000,%23b30000" alt="Snake Animation">
   </picture>
 </p>
 
 ## 📫 Connect
 
 <p align="left">
-  <a href="https://github.com/uieiie"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E50914" /></a>
+  <a href="https://github.com/uieiie"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914" /></a>
+  <a href="https://www.linkedin.com/in/abel-daniel-code/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E50914" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, always building 🚀</i>
 </p>
