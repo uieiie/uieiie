@@ -49,7 +49,7 @@ looking_for:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uieiie/uieiie/output/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
+ <img src="https://raw.githubusercontent.com/uieiie/uieiie/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ## 📫 Connect
