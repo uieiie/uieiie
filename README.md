@@ -28,6 +28,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uieiie&bg_color=000000&color=ffffff&line=E50914&point=E50914&hide_border=true" alt="Contribution Graph">
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uieiie/uieiie/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/uieiie/uieiie/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  </picture>
+</p>
+
 ## 📫 Connect
 <p align="center">
   <a href="https://github.com/uieiie"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"></a>
