@@ -19,9 +19,11 @@
 ## 🧬 About Me
 
 ```yaml
-name:      Abel
-alias:     uieiie
-education: B.S. Computer Science · University of Illinois Chicago
+name: Abel
+alias: uieiie
+Education:
+University of Illinois Chicago
+learning Computer Science.
 
 interests:
   - Artificial Intelligence
