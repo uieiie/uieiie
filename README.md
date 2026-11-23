@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:E50914,100:000000&text=Abel%20%7C%20uieiie&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%C2%B7%20AI%20%C2%B7%20Machine%20Learning&descAlignY=58&descSize=18&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:E50914,100:000000&text=Abel%20%7C%20uieiie&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%C2%B7%20AI%20%C2%B7%20Machine%20Learning&descAlignY=58&descSize=18&descColor=ffffff" alt="Abel | uieiie — Computer Science · AI · Machine Learning" />
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 ```yaml
 name: Abel
 alias: uieiie
-Education:
-University of Illinois Chicago
-learning Computer Science.
+education:
+  university: University of Illinois Chicago
+  major: Computer Science
 
 interests:
   - Artificial Intelligence
@@ -65,9 +65,9 @@ looking_for:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uieiie&show_icons=true&count_private=true&bg_color=000000&title_color=E50914&icon_color=E50914&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=uieiie&show_icons=true&count_private=true&bg_color=000000&title_color=E50914&icon_color=E50914&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uieiie&layout=compact&bg_color=000000&title_color=E50914&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uieiie&layout=compact&bg_color=000000&title_color=E50914&text_color=ffffff&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -105,11 +105,11 @@ looking_for:
 
 <p align="left">
   <a href="https://github.com/uieiie">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/abel-daniel-code/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E50914" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E50914" alt="LinkedIn" />
   </a>
 </p>
 
@@ -118,5 +118,5 @@ looking_for:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:E50914,100:000000&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:E50914,100:000000&section=footer&animation=fadeIn" alt="" />
 </p>

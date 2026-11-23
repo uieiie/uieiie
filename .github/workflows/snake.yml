@@ -17,23 +17,16 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=ffffff&color_dots=#1a0000,#660000,#990000,#cc0000,#ff0000
-            dist/github-contribution-grid-snake-dark.svg?color_snake=ffffff&color_dots=#1a0000,#660000,#990000,#cc0000,#ff0000
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-contribution-grid-snake.svg?color_snake=#000000&color_dots=#ebedf0,#ff9999,#ff4d4d,#e50914,#990000
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#1a0000,#660000,#990000,#cc0000,#ff0000
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
