@@ -1,0 +1,5 @@
+{
+  "name": "mylabs",
+  "version": "0.1.0",
+  "description": "Pearson MyLab Math helper: fills in MyLab Math answer boxes in Chrome one problem part at a time, then stops so the user can review and click Finish."
+}
